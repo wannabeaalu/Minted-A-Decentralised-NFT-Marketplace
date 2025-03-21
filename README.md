@@ -4,7 +4,7 @@
 
 ## Overview
 
-Minted is a fully decentralized NFT marketplace developed as a major project by Prajjwal Kushwaha in November 2022. The platform enables users to mint, buy, and sell NFTs with zero transaction costs, ensuring transparency, security, and ownership integrity.
+Minted is a fully decentralized NFT marketplace developed as a major project by me in feb 2025. The platform enables users to mint, buy, and sell NFTs with zero transaction costs, ensuring transparency, security, and ownership integrity.
 
 ## Features
 
