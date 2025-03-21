@@ -1,0 +1,105 @@
+.body{
+    background-color: #040c20;
+    background-size: cover;
+    padding-top: 3%;
+    padding-left: 5%;
+    padding-right: 5%;
+    height: 950px;
+}
+
+.profileNav{
+    text-align: right;
+    height: 40px;
+    padding: 0px;
+}
+
+.loginpage {
+    height: 800px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 20px rgba(0, 0, 0, 0.562);
+}
+
+.login {
+    border-radius: 10px;
+    padding: 40px;
+    text-align: center;
+    background-color: white;
+    width: 20%;
+    padding-top: 100px;
+}
+
+.homeInput {
+    background-color: white;
+    border: none;
+    border-radius: 1px;
+    margin: 2%;
+    padding: 5px;
+}
+
+.loginButton {
+    margin-top: 10%;
+}
+
+.logimg{
+    border-radius: 20px;
+    background-image: url(2.gif);
+    background-size: cover;
+}
+
+.signimg{
+    border-radius: 20px;
+    background-image: url(6.gif);
+    background-size: cover;
+}
+
+.profileSection {
+    margin: 12px;
+    text-align: center;
+    padding-top: 50px;
+    background-color: white;
+    height: 30rem;
+    border-radius: 5px;
+}
+
+.cardX {
+    margin-bottom: 30px;
+    /* border: solid 1px white; */
+    text-align: center;
+}
+
+.cardImage {
+    width: 20rem;
+    height: 15rem;
+    object-fit: cover;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.cardBody {
+    padding: 10px;
+    background-color: white;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    font-size: small;
+}
+
+.Heading {
+    text-align: center;
+    font-size: x-large;
+    color: white;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+.navButton {
+    margin: 10px;
+}
+
+h5 {
+    color: white;
+    padding-top: 20px;
+    text-align: center;
+}
